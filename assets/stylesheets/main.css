@@ -1,0 +1,190 @@
+body
+  {
+  }
+
+.container
+  {
+    width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: .1em;
+    margin-bottom: .1em;
+    color: blue;
+  }
+
+  h1 {
+    font-size: 22px;
+    color: #FF69B4;
+    font-family: Didot, Goudy Old Style,;
+    }
+
+.header {
+  text-transform: uppercase;
+
+  }
+
+
+.title {
+  margin-left: 30%;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+  margin-top: 2em;
+  color: #FF69B4;
+  font-family: Georgia,Times, serif;
+  font-size: 28px;
+  }
+
+.title h4 {
+
+    vertical-align: middle;
+    font-size: 30px;
+    color: #FF69B4;
+    margin-bottom: -25px;
+    margin: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    font-family: Didot, Goudy Old Style,;
+    letter-spacing: 2px;
+}
+
+.title img {
+  margin-bottom: -5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title ul {
+
+  padding-left:0;
+  list-style-type: none;
+  font-size: 22px;
+  color: #A0A0A0;
+}
+.pinkline {
+  background: #FF69B4;
+  margin-top: 3px;
+  height: 50px;
+  width: 300px;
+  line-height: 50px;
+  margin-left: -80px;
+}
+.pinkline h4 {
+  font-size: 22px;
+  color: white;
+  margin-top: 2px;
+  margin-left: 35px;
+  letter-spacing: .25em;
+  vertical-align: bottom;
+
+}
+
+.line {
+  background: black;
+  margin-top: 3px;
+  height: 50px;
+  width: 300px;
+  line-height: 50px;
+  margin-left: -80px;
+}
+
+
+.line h5 {
+  font-size: 22px;
+  color: white;
+  margin-top: 2px;
+  margin-left: 35px;
+  letter-spacing: .25em;
+  vertical-align: bottom;
+
+}
+
+ul,
+article {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  color: white;
+
+}
+
+h2 {
+  text-align: center;
+  }
+h3 {
+  text-align: center;
+}
+
+h5 {
+  font-size: 22px;
+  color: white;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-shadow: 2px 2px 2px #000;
+  letter-spacing: .25em;
+
+}
+
+h4 {
+  vertical-align: middle;
+  font-size: 22px;
+  color: #FF69B4;
+  font-family: Didot, Goudy Old Style,;
+  margin-bottom: -10px;
+  }
+
+
+}
+strong {
+  font-style:oblique;
+  font-size: 14px;
+  font-family: sans-serif;
+}
+h6 {
+  margin-top: 15px;
+  font-size: 15px;
+  color: white;
+  margin-bottom: 2px;
+}
+
+
+article {
+  float: left;
+  width: 50%;
+  font-family: Georgia,Times, serif;
+  color: white;
+  background-color: #FF69B4;
+  padding: 15px;
+  opacity: 0.75;
+  margin: 5px;
+  }
+
+  .showtarget {
+  	display: none;
+  }
+
+  .showtarget.active{
+  	display: block;
+  }
+
+
+
+aside {
+  width: 30%;
+  float: right;
+  font-size: 15;
+  font-family: Georgia;
+  letter-spacing: .5px;
+  background-color: #414141;
+  padding: 10px;
+  color: white;
+  margin-bottom: 2em;
+}
+
+img,
+aside {
+  margin-left: 1.30em;
+}
+
+
+div p, div a {}
